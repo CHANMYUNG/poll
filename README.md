@@ -1,0 +1,1 @@
+# Poll [![Build Status](https://travis-ci.org/Nooheat/poll.svg?branch=master)](https://travis-ci.org/Nooheat/poll) [![Coverage Status](https://coveralls.io/repos/github/Nooheat/poll/badge.svg?branch=master)](https://coveralls.io/github/Nooheat/poll?branch=master)
